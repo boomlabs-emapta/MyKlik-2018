@@ -1,0 +1,16 @@
+/* SHOW CSS */
+.container .box-details .box-details-left {
+  width: 70%;
+  height: 100%;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  vertical-align: top; }
+
+.container .box-details .box-details-right {
+  width: 30%;
+  height: 100%;
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  padding: 0; }
